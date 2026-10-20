@@ -4,6 +4,7 @@
 
 **A tiny coding agent in one Python file: one model, three tools, one loop.**
 
+[![Watch on YouTube](https://img.shields.io/badge/Watch-VAT001-FF0000?logo=youtube&logoColor=white)](https://youtu.be/8mPFxocLvtU)
 [![Episode](https://img.shields.io/badge/Vey%20Arc%20Build-VAT001-FF5A36)](../README.md#episodes)
 [![Python](https://img.shields.io/badge/Python-3.10%2B-3776AB?logo=python&logoColor=white)](https://www.python.org/)
 [![openai](https://img.shields.io/badge/openai-3.35.1-412991)](https://pypi.org/project/openai/3.35.1/)
@@ -17,7 +18,7 @@
 
 ---
 
-> **Video:** coming soon on [Vey Arc](https://www.youtube.com/channel/UCLV_kslwMQv05BqudyKRL5g)
+> **▶ Watch the episode:** [https://youtu.be/8mPFxocLvtU](https://youtu.be/8mPFxocLvtU) · [Vey Arc on YouTube](https://www.youtube.com/channel/UCLV_kslwMQv05BqudyKRL5g)
 
 ## Contents
 

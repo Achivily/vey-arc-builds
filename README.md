@@ -27,7 +27,7 @@ Each Vey Arc Build episode takes one idea from AI agent engineering and builds i
 
 | No. | Episode | Folder | Topics | Verified with | Video |
 |:---:|---|---|---|---|---|
-| **VAT001** | Every AI Agent Is the Same Loop | [`VAT001_agent-loop/`](VAT001_agent-loop/) | `agent-loop` `tool-calling` `harness` | Python 3.13.16 · openai 3.35.1 · deepseek-flash · 2026-10-19 | coming soon |
+| **VAT001** | Every AI Agent Is the Same Loop | [`VAT001_agent-loop/`](VAT001_agent-loop/) | `agent-loop` `tool-calling` `harness` | Python 3.13.16 · openai 3.35.1 · deepseek-flash · 2026-10-19 | [▶ Watch](https://youtu.be/8mPFxocLvtU) |
 
 <sub>Numbering: `VAT` + three digits, in release order. Folder names are `VAT<NNN>_<short-slug>`.</sub>
 
