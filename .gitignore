@@ -1,0 +1,13 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+# record_run.py keeps a clean copy of the demo file here; it is local state
+**/recordings/*.orig
+# OS / editors
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
