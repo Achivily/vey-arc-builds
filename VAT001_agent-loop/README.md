@@ -5,7 +5,7 @@
 **A tiny coding agent in one Python file: one model, three tools, one loop.**
 
 [![Watch on YouTube](https://img.shields.io/badge/Watch-VAT001-FF0000?logo=youtube&logoColor=white)](https://youtu.be/8mPFxocLvtU)
-[![Episode](https://img.shields.io/badge/Vey%20Arc%20Build-VAT001-FF5A36)](../README.md#episodes)
+[![Episode](https://img.shields.io/badge/Vey%20Arc%27s%20Tutorial-VAT001-FF5A36)](../README.md#episodes)
 [![Python](https://img.shields.io/badge/Python-3.10%2B-3776AB?logo=python&logoColor=white)](https://www.python.org/)
 [![openai](https://img.shields.io/badge/openai-3.35.1-412991)](https://pypi.org/project/openai/3.35.1/)
 [![Verified](https://img.shields.io/badge/verified-2026--10--19-2FA36B)](#verified)
