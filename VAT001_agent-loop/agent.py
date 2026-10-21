@@ -1,6 +1,6 @@
 """A tiny coding agent: one model, three tools, one loop.
 
-Vey Arc's Tutorial, VAT001. Works with any OpenAI-compatible Chat Completions API
+Vey Arc's Tutorials, VAT001. Works with any OpenAI-compatible Chat Completions API
 (OpenAI, DeepSeek, a local Ollama server, ...). See README.md.
 """
 import json

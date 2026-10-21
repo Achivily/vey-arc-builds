@@ -1,8 +1,8 @@
 <div align="center">
 
-# Vey Arc's Tutorial
+# Vey Arc's Tutorials
 
-**Small, runnable AI-agent projects from Vey Arc's Tutorial (VAT).**
+**Small, runnable AI-agent projects from Vey Arc's Tutorials (VAT).**
 One folder per episode · pinned versions · tested on real models before the video ships.
 
 [![YouTube](https://img.shields.io/badge/YouTube-Vey%20Arc-FF0000?logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCLV_kslwMQv05BqudyKRL5g)
@@ -17,7 +17,7 @@ One folder per episode · pinned versions · tested on real models before the vi
 
 ## About
 
-Each Vey Arc's Tutorial episode takes one idea from AI agent engineering and builds it in about six minutes of video, with code you can run the same day. This repository holds that code.
+Each episode of Vey Arc's Tutorials takes one idea from AI agent engineering and builds it in about six minutes of video, with code you can run the same day. This repository holds that code.
 
 - **Self-contained.** Every episode lives in its own numbered folder with its own `README.md`, `requirements.txt`, demo files and tests. Nothing is shared between folders, so one episode never breaks another.
 - **Pinned and verified.** Each episode lists the exact Python version, package versions, provider and model it was verified with, and the date.
