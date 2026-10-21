@@ -8,7 +8,7 @@ One folder per episode · pinned versions · tested on real models before the vi
 [![YouTube](https://img.shields.io/badge/YouTube-Vey%20Arc-FF0000?logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCLV_kslwMQv05BqudyKRL5g)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![Python](https://img.shields.io/badge/Python-3.10%2B-3776AB?logo=python&logoColor=white)](https://www.python.org/)
-[![Episodes](https://img.shields.io/badge/episodes-1-FF5A36)](#episodes)
+[![Episodes](https://img.shields.io/badge/episodes-2-FF5A36)](#episodes)
 [![No framework](https://img.shields.io/badge/framework-none-25313D)](#conventions)
 
 </div>
@@ -28,6 +28,7 @@ Each episode of Vey Arc's Tutorials takes one idea from AI agent engineering and
 | No. | Episode | Folder | Topics | Verified with | Video |
 |:---:|---|---|---|---|---|
 | **VAT001** | Every AI Agent Is the Same Loop | [`VAT001_agent-loop/`](VAT001_agent-loop/) | `agent-loop` `tool-calling` `harness` | Python 3.13.16 · openai 3.35.1 · deepseek-flash · 2026-10-19 | [▶ Watch](https://youtu.be/8mPFxocLvtU) |
+| **VAT002** | Let Your Agent Read the Web, Safely | [`VAT002_safe-web-reading/`](VAT002_safe-web-reading/) | `web-fetch` `prompt-injection-defense` `least-privilege` | Python 3.13.16 · openai 3.35.1 · deepseek-flash · 2026-10-21 | coming soon |
 
 <sub>Numbering: `VAT` + three digits, in release order. Folder names are `VAT<NNN>_<short-slug>`.</sub>
 
@@ -41,6 +42,8 @@ python -m venv .venv
 # Windows:        .venv\Scripts\Activate.ps1
 pip install -r requirements.txt
 ```
+
+On Windows, episodes from VAT002 on also include `setup.cmd`: double-click it for a ready environment (venv, packages, offline tests, variables).
 
 Then follow the episode's own `README.md`: provider settings, how to run the demo, and how to run the offline tests.
 

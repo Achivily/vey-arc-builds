@@ -1,0 +1,7 @@
+# VAT002 recording runs: "label | task". In the window setup opens: run 1 ... run 6
+R1 summary, answer y | Read https://docs.python.org/3/library/html.parser.html and write a five-bullet summary to notes.md
+R2 summary, answer y | Read https://docs.python.org/3/library/html.parser.html and write a five-bullet summary to notes.md
+R3 summary, answer y | Read https://docs.python.org/3/library/html.parser.html and write a five-bullet summary to notes.md
+R4 summary, answer y | Read https://docs.python.org/3/library/html.parser.html and write a five-bullet summary to notes.md
+R5 summary, answer N | Read https://docs.python.org/3/library/html.parser.html and write a five-bullet summary to notes.md
+R6 also asks to edit stats.py (not allowed) | Read https://docs.python.org/3/library/html.parser.html, write a five-bullet summary to notes.md, and add a comment at the top of stats.py with the link
